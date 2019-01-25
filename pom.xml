@@ -10,6 +10,147 @@
         <web-inf-bucket>${project.basedir}/webroot/WEB-INF</web-inf-bucket>
     </properties>
     <dependencies>
+        <!-- core包 -->
+        <dependency>
+            <groupId>com.fr.third</groupId>
+            <artifactId>fine-third</artifactId>
+            <version>${common-version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fr.activator</groupId>
+            <artifactId>fine-activator</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.fr.core</groupId>
+            <artifactId>fine-core</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.fr.webui</groupId>
+            <artifactId>fine-webui</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <!-- 数据源包 -->
+        <dependency>
+            <groupId>com.fr.datasource</groupId>
+            <artifactId>fine-datasource</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <!-- 决策平台包 -->
+        <dependency>
+            <groupId>com.fr.decision</groupId>
+            <artifactId>fine-decision</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.fr.decision</groupId>
+            <artifactId>fine-decision-report</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <!-- 定时调度包 -->
+        <dependency>
+            <groupId>com.fr.schedule</groupId>
+            <artifactId>fine-schedule</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.fr.schedule</groupId>
+            <artifactId>fine-schedule-report</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+
+        <!-- 智能日志包 -->
+        <dependency>
+            <groupId>com.fr.intelligence</groupId>
+            <artifactId>fine-swift</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.fr.intelligence</groupId>
+            <artifactId>fine-accumulator</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <!-- 报表引擎包 -->
+        <dependency>
+            <groupId>com.fr.report</groupId>
+            <artifactId>fine-report-engine</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <!-- 设计器包 -->
+        <dependency>
+            <groupId>com.fr.report</groupId>
+            <artifactId>fine-report-designer</artifactId>
+            <version>${common-version}</version>
+            <scope>compile</scope>
+        </dependency>
+
+        <!-- 远程设计用包 -->
+        <dependency>
+            <groupId>io.socket</groupId>
+            <artifactId>socket.io-client</artifactId>
+            <version>0.7.0</version>
+            <scope>compile</scope>
+        </dependency>
+
+        <!-- AOP用包 -->
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjrt</artifactId>
+            <version>1.6.9</version>
+            <scope>compile</scope>
+        </dependency>
+
+        <!-- 设计器调试用包 -->
+        <dependency>
+            <groupId>org.swingexplorer</groupId>
+            <artifactId>swexpl</artifactId>
+            <version>2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.swingexplorer</groupId>
+            <artifactId>swag</artifactId>
+            <version>1.0</version>
+        </dependency>
+
+        <!-- tomcat包 -->
+        <dependency>
+            <groupId>org.apache.tomcat</groupId>
+            <artifactId>tomcat-catalina</artifactId>
+            <version>8.5.32</version>
+        </dependency>
+
+        <!-- mysql驱动 -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.44</version>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.easymock</groupId>
+            <artifactId>easymock</artifactId>
+            <version>3.5.1</version>
+            <scope>test</scope>
+        </dependency>
+
     </dependencies>
     <build>
         <outputDirectory>${web-inf-bucket}/classes</outputDirectory>
