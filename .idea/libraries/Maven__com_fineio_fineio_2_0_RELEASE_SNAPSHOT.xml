@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fineio:fineio:2.0-RELEASE-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fineio/fineio/2.0-RELEASE-SNAPSHOT/fineio-2.0-RELEASE-20190125.054948-772.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fineio/fineio/2.0-RELEASE-SNAPSHOT/fineio-2.0-RELEASE-20190125.054948-772-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fineio/fineio/2.0-RELEASE-SNAPSHOT/fineio-2.0-RELEASE-20190125.054948-772-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

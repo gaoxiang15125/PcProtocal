@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fr.report:fine-report-designer:10.0-RELEASE-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/report/fine-report-designer/10.0-RELEASE-SNAPSHOT/fine-report-designer-10.0-RELEASE-20190124.194750-536.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/report/fine-report-designer/10.0-RELEASE-SNAPSHOT/fine-report-designer-10.0-RELEASE-20190124.194750-536-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/report/fine-report-designer/10.0-RELEASE-SNAPSHOT/fine-report-designer-10.0-RELEASE-20190124.194750-536-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

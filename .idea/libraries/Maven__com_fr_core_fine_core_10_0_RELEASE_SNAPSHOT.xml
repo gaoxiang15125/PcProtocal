@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fr.core:fine-core:10.0-RELEASE-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/core/fine-core/10.0-RELEASE-SNAPSHOT/fine-core-10.0-RELEASE-20190124.190518-602.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/core/fine-core/10.0-RELEASE-SNAPSHOT/fine-core-10.0-RELEASE-20190124.190518-602-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/core/fine-core/10.0-RELEASE-SNAPSHOT/fine-core-10.0-RELEASE-20190124.190518-602-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

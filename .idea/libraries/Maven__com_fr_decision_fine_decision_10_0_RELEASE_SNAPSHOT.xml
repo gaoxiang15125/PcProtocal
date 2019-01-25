@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fr.decision:fine-decision:10.0-RELEASE-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/decision/fine-decision/10.0-RELEASE-SNAPSHOT/fine-decision-10.0-RELEASE-20190124.190527-589.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/decision/fine-decision/10.0-RELEASE-SNAPSHOT/fine-decision-10.0-RELEASE-20190124.190527-589-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/decision/fine-decision/10.0-RELEASE-SNAPSHOT/fine-decision-10.0-RELEASE-20190124.190527-589-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

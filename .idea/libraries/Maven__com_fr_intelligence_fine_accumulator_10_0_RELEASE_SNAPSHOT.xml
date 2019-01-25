@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fr.intelligence:fine-accumulator:10.0-RELEASE-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/intelligence/fine-accumulator/10.0-RELEASE-SNAPSHOT/fine-accumulator-10.0-RELEASE-20190124.190516-503.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/intelligence/fine-accumulator/10.0-RELEASE-SNAPSHOT/fine-accumulator-10.0-RELEASE-20190124.190516-503-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/intelligence/fine-accumulator/10.0-RELEASE-SNAPSHOT/fine-accumulator-10.0-RELEASE-20190124.190516-503-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

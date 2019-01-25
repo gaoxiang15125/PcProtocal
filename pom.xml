@@ -23,12 +23,6 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>com.fr.core</groupId>
-            <artifactId>fine-core</artifactId>
-            <version>${common-version}</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
             <groupId>com.fr.webui</groupId>
             <artifactId>fine-webui</artifactId>
             <version>${common-version}</version>

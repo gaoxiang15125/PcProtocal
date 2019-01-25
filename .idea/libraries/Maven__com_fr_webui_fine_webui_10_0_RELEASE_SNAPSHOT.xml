@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fr.webui:fine-webui:10.0-RELEASE-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/webui/fine-webui/10.0-RELEASE-SNAPSHOT/fine-webui-10.0-RELEASE-20190124.195021-535.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/webui/fine-webui/10.0-RELEASE-SNAPSHOT/fine-webui-10.0-RELEASE-20190124.195021-535-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/webui/fine-webui/10.0-RELEASE-SNAPSHOT/fine-webui-10.0-RELEASE-20190124.195021-535-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

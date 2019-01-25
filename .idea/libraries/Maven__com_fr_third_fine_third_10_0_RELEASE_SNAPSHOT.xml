@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fr.third:fine-third:10.0-RELEASE-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/third/fine-third/10.0-RELEASE-SNAPSHOT/fine-third-10.0-RELEASE-20190125.051102-163.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/third/fine-third/10.0-RELEASE-SNAPSHOT/fine-third-10.0-RELEASE-20190125.051102-163-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fr/third/fine-third/10.0-RELEASE-SNAPSHOT/fine-third-10.0-RELEASE-20190125.051102-163-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
